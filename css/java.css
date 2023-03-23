@@ -1,0 +1,17 @@
+.zagalovka{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    word-spacing: 25px;
+    text-decoration:none ;
+    line-height: 80px;
+
+}
+button{
+    font-size: 18px;
+    background-color: rgb(4, 170, 109);
+    color: white;
+    line-height: 45px;
+      
+}
